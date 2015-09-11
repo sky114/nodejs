@@ -2,7 +2,8 @@
 nodejs + express4 + mongodb 示例  
 
 Express 是一个基于 Node.js 平台的极简、灵活的 web 应用开发框架，它提供一系列强大的特性，帮助你创建各种 Web 和移动设备应用。
-基本流程，以下只针Windows 下
+
+下面主要介绍下环境安装的基本流程，以下只针Windows环境 下
 1、安装Nodejs,下载地址 https://nodejs.org/en/，直接安装即可
 
 2、安装express，window 下cmd 通过npm安装express（默认安装nodejs已安装好npm）,执行命令 npm -g install express
