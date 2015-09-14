@@ -7,6 +7,7 @@ Express 是一个基于 Node.js 平台的极简、灵活的 web 应用开发框�
 1、安装Nodejs,下载地址 https://nodejs.org/en/，直接安装即可
 
 2、安装express，window 下cmd 通过npm安装express（默认安装nodejs已安装好npm）,执行命令 npm -g install express
+   完成后运行 npm install -g express-generato 不然不能直接在控制台中识别express命令
 
 3、创建express web站点，直接通过命令即可完成express web模板框框架， express -e ejs microblog(这是站点名称)
 
