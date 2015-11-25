@@ -1,5 +1,5 @@
 
-var mongodb = require('./db') // 引入 mongodb  
+var mongodb = require('../config/db') // 引入 mongodb  
 
 // 构造函数
 function Users(user) {
